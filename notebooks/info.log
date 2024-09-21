@@ -2728,3 +2728,75 @@
 2024-09-21 16:52:32,267 - info - INFO - Competitor distance vs Sales
 2024-09-21 16:52:32,267 - info - INFO - Competitor distance vs Sales
 2024-09-21 16:52:32,267 - info - INFO - Competitor distance vs Sales
+2024-09-21 20:14:25,673 - info - INFO - Loading file
+2024-09-21 20:14:25,688 - info - INFO - Return the dataframe
+2024-09-21 20:14:25,755 - info - INFO - Replace NaN by zero
+2024-09-21 20:14:25,770 - info - INFO - Replace NaN by zero
+2024-09-21 20:14:25,770 - info - INFO - Replace NaN by zero
+2024-09-21 20:14:25,770 - info - INFO - Replace NaN by zero
+2024-09-21 20:14:25,773 - info - INFO - Replace NaN by zero
+2024-09-21 20:14:25,773 - info - INFO - Replace NaN by zero
+2024-09-21 20:14:25,807 - info - INFO - Loading file
+2024-09-21 20:14:25,807 - info - INFO - Loading file
+2024-09-21 20:14:25,905 - info - INFO - Return the dataframe
+2024-09-21 20:14:25,905 - info - INFO - Return the dataframe
+2024-09-21 20:14:25,947 - info - INFO - Remove null values
+2024-09-21 20:14:25,947 - info - INFO - Remove null values
+2024-09-21 20:14:26,016 - info - INFO - Loading file
+2024-09-21 20:14:26,016 - info - INFO - Loading file
+2024-09-21 20:14:26,016 - info - INFO - Loading file
+2024-09-21 20:14:27,438 - info - INFO - Return the dataframe
+2024-09-21 20:14:27,438 - info - INFO - Return the dataframe
+2024-09-21 20:14:27,438 - info - INFO - Return the dataframe
+2024-09-21 20:14:44,072 - info - INFO - Change datatype of columns
+2024-09-21 20:14:44,072 - info - INFO - Change datatype of columns
+2024-09-21 20:14:44,072 - info - INFO - Change datatype of columns
+2024-09-21 20:14:44,072 - info - INFO - Change datatype of columns
+2024-09-21 20:14:46,726 - info - INFO - Change datatype of columns
+2024-09-21 20:14:46,726 - info - INFO - Change datatype of columns
+2024-09-21 20:14:46,726 - info - INFO - Change datatype of columns
+2024-09-21 20:14:46,726 - info - INFO - Change datatype of columns
+2024-09-21 20:14:46,838 - info - INFO - Distribution of the categorical features
+2024-09-21 20:14:46,838 - info - INFO - Distribution of the categorical features
+2024-09-21 20:14:46,838 - info - INFO - Distribution of the categorical features
+2024-09-21 20:14:46,838 - info - INFO - Distribution of the categorical features
+2024-09-21 20:14:47,246 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 20:14:47,246 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 20:14:47,246 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 20:14:47,246 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 20:14:50,293 - info - INFO - Sales on specific holiday seasons
+2024-09-21 20:14:50,293 - info - INFO - Sales on specific holiday seasons
+2024-09-21 20:14:50,293 - info - INFO - Sales on specific holiday seasons
+2024-09-21 20:14:50,293 - info - INFO - Sales on specific holiday seasons
+2024-09-21 20:14:51,001 - info - INFO - Sales and Customers relation
+2024-09-21 20:14:51,001 - info - INFO - Sales and Customers relation
+2024-09-21 20:14:51,001 - info - INFO - Sales and Customers relation
+2024-09-21 20:14:51,001 - info - INFO - Sales and Customers relation
+2024-09-21 20:14:55,320 - info - INFO - Promo effect on sales
+2024-09-21 20:14:55,320 - info - INFO - Promo effect on sales
+2024-09-21 20:14:55,320 - info - INFO - Promo effect on sales
+2024-09-21 20:14:55,320 - info - INFO - Promo effect on sales
+2024-09-21 20:14:56,693 - info - INFO - Days of the week most promos happen
+2024-09-21 20:14:56,693 - info - INFO - Days of the week most promos happen
+2024-09-21 20:14:56,693 - info - INFO - Days of the week most promos happen
+2024-09-21 20:14:56,693 - info - INFO - Days of the week most promos happen
+2024-09-21 20:14:56,956 - info - INFO - Which store type should promo be deployed
+2024-09-21 20:14:56,956 - info - INFO - Which store type should promo be deployed
+2024-09-21 20:14:56,956 - info - INFO - Which store type should promo be deployed
+2024-09-21 20:14:56,956 - info - INFO - Which store type should promo be deployed
+2024-09-21 20:14:57,275 - info - INFO - Customers average purchases on opening time
+2024-09-21 20:14:57,275 - info - INFO - Customers average purchases on opening time
+2024-09-21 20:14:57,275 - info - INFO - Customers average purchases on opening time
+2024-09-21 20:14:57,275 - info - INFO - Customers average purchases on opening time
+2024-09-21 20:14:57,983 - info - INFO - Day of the week vs Sales
+2024-09-21 20:14:57,983 - info - INFO - Day of the week vs Sales
+2024-09-21 20:14:57,983 - info - INFO - Day of the week vs Sales
+2024-09-21 20:14:57,983 - info - INFO - Day of the week vs Sales
+2024-09-21 20:14:59,377 - info - INFO - Assortments vs Sales
+2024-09-21 20:14:59,377 - info - INFO - Assortments vs Sales
+2024-09-21 20:14:59,377 - info - INFO - Assortments vs Sales
+2024-09-21 20:14:59,377 - info - INFO - Assortments vs Sales
+2024-09-21 20:14:59,813 - info - INFO - Competitor distance vs Sales
+2024-09-21 20:14:59,813 - info - INFO - Competitor distance vs Sales
+2024-09-21 20:14:59,813 - info - INFO - Competitor distance vs Sales
+2024-09-21 20:14:59,813 - info - INFO - Competitor distance vs Sales
