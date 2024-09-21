@@ -33,6 +33,20 @@ class ANALYSIS:
         self.df = dataframe1
         self.df2 = dataframe2
 
+    # close log process
+    def close_logs(self):
+        # Close and remove the info log handler
+        handlers = self.info_log.handlers[:]
+        for handler in handlers:
+            handler.close()
+            self.info_log.removeHandler(handler)
+
+        # Close and remove the error log handler
+        handlers = self.error_log.handlers[:]
+        for handler in handlers:
+            handler.close()
+            self.error_log.removeHandler(handler)
+
     # return the dataframe
     def get_dataframe(self):
         return self.df, self.df2
