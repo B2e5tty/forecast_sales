@@ -1870,3 +1870,783 @@
 2024-09-21 04:06:47,201 - info - INFO - Sales on specific holiday seasons
 2024-09-21 04:06:47,201 - info - INFO - Sales on specific holiday seasons
 2024-09-21 04:06:47,201 - info - INFO - Sales on specific holiday seasons
+2024-09-21 10:39:23,278 - info - INFO - Loading file
+2024-09-21 10:39:23,309 - info - INFO - Return the dataframe
+2024-09-21 10:39:23,381 - info - INFO - Replace NaN by zero
+2024-09-21 10:39:23,381 - info - INFO - Replace NaN by zero
+2024-09-21 10:39:23,381 - info - INFO - Replace NaN by zero
+2024-09-21 10:39:23,381 - info - INFO - Replace NaN by zero
+2024-09-21 10:39:23,381 - info - INFO - Replace NaN by zero
+2024-09-21 10:39:23,381 - info - INFO - Replace NaN by zero
+2024-09-21 10:39:23,443 - info - INFO - Loading file
+2024-09-21 10:39:23,443 - info - INFO - Loading file
+2024-09-21 10:39:23,565 - info - INFO - Return the dataframe
+2024-09-21 10:39:23,565 - info - INFO - Return the dataframe
+2024-09-21 10:39:23,607 - info - INFO - Remove null values
+2024-09-21 10:39:23,607 - info - INFO - Remove null values
+2024-09-21 10:39:23,661 - info - INFO - Loading file
+2024-09-21 10:39:23,661 - info - INFO - Loading file
+2024-09-21 10:39:23,661 - info - INFO - Loading file
+2024-09-21 10:39:24,599 - info - INFO - Return the dataframe
+2024-09-21 10:39:24,599 - info - INFO - Return the dataframe
+2024-09-21 10:39:24,599 - info - INFO - Return the dataframe
+2024-09-21 10:39:39,140 - info - INFO - Change datatype of columns
+2024-09-21 10:39:39,140 - info - INFO - Change datatype of columns
+2024-09-21 10:39:39,140 - info - INFO - Change datatype of columns
+2024-09-21 10:39:39,140 - info - INFO - Change datatype of columns
+2024-09-21 10:39:41,057 - info - INFO - Change datatype of columns
+2024-09-21 10:39:41,057 - info - INFO - Change datatype of columns
+2024-09-21 10:39:41,057 - info - INFO - Change datatype of columns
+2024-09-21 10:39:41,057 - info - INFO - Change datatype of columns
+2024-09-21 10:39:41,108 - info - INFO - Distribution of the categorical features
+2024-09-21 10:39:41,108 - info - INFO - Distribution of the categorical features
+2024-09-21 10:39:41,108 - info - INFO - Distribution of the categorical features
+2024-09-21 10:39:41,108 - info - INFO - Distribution of the categorical features
+2024-09-21 10:39:41,394 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 10:39:41,394 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 10:39:41,394 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 10:39:41,394 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 10:39:43,742 - info - INFO - Sales on specific holiday seasons
+2024-09-21 10:39:43,742 - info - INFO - Sales on specific holiday seasons
+2024-09-21 10:39:43,742 - info - INFO - Sales on specific holiday seasons
+2024-09-21 10:39:43,742 - info - INFO - Sales on specific holiday seasons
+2024-09-21 12:51:30,592 - info - INFO - Loading file
+2024-09-21 12:51:30,609 - info - INFO - Return the dataframe
+2024-09-21 12:51:30,659 - info - INFO - Replace NaN by zero
+2024-09-21 12:51:30,675 - info - INFO - Replace NaN by zero
+2024-09-21 12:51:30,676 - info - INFO - Replace NaN by zero
+2024-09-21 12:51:30,677 - info - INFO - Replace NaN by zero
+2024-09-21 12:51:30,679 - info - INFO - Replace NaN by zero
+2024-09-21 12:51:30,679 - info - INFO - Replace NaN by zero
+2024-09-21 12:51:30,718 - info - INFO - Loading file
+2024-09-21 12:51:30,718 - info - INFO - Loading file
+2024-09-21 12:51:30,796 - info - INFO - Return the dataframe
+2024-09-21 12:51:30,796 - info - INFO - Return the dataframe
+2024-09-21 12:51:30,821 - info - INFO - Remove null values
+2024-09-21 12:51:30,821 - info - INFO - Remove null values
+2024-09-21 12:51:30,892 - info - INFO - Loading file
+2024-09-21 12:51:30,892 - info - INFO - Loading file
+2024-09-21 12:51:30,892 - info - INFO - Loading file
+2024-09-21 12:51:32,388 - info - INFO - Return the dataframe
+2024-09-21 12:51:32,388 - info - INFO - Return the dataframe
+2024-09-21 12:51:32,388 - info - INFO - Return the dataframe
+2024-09-21 12:51:46,659 - info - INFO - Change datatype of columns
+2024-09-21 12:51:46,659 - info - INFO - Change datatype of columns
+2024-09-21 12:51:46,659 - info - INFO - Change datatype of columns
+2024-09-21 12:51:46,659 - info - INFO - Change datatype of columns
+2024-09-21 12:51:48,360 - info - INFO - Change datatype of columns
+2024-09-21 12:51:48,360 - info - INFO - Change datatype of columns
+2024-09-21 12:51:48,360 - info - INFO - Change datatype of columns
+2024-09-21 12:51:48,360 - info - INFO - Change datatype of columns
+2024-09-21 12:51:48,435 - info - INFO - Distribution of the categorical features
+2024-09-21 12:51:48,435 - info - INFO - Distribution of the categorical features
+2024-09-21 12:51:48,435 - info - INFO - Distribution of the categorical features
+2024-09-21 12:51:48,435 - info - INFO - Distribution of the categorical features
+2024-09-21 12:51:48,719 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 12:51:48,719 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 12:51:48,719 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 12:51:48,719 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 12:51:51,278 - info - INFO - Sales on specific holiday seasons
+2024-09-21 12:51:51,278 - info - INFO - Sales on specific holiday seasons
+2024-09-21 12:51:51,278 - info - INFO - Sales on specific holiday seasons
+2024-09-21 12:51:51,278 - info - INFO - Sales on specific holiday seasons
+2024-09-21 12:55:04,866 - info - INFO - Loading file
+2024-09-21 12:55:04,887 - info - INFO - Return the dataframe
+2024-09-21 12:55:04,950 - info - INFO - Replace NaN by zero
+2024-09-21 12:55:04,950 - info - INFO - Replace NaN by zero
+2024-09-21 12:55:04,950 - info - INFO - Replace NaN by zero
+2024-09-21 12:55:04,950 - info - INFO - Replace NaN by zero
+2024-09-21 12:55:04,950 - info - INFO - Replace NaN by zero
+2024-09-21 12:55:04,950 - info - INFO - Replace NaN by zero
+2024-09-21 12:55:04,999 - info - INFO - Loading file
+2024-09-21 12:55:04,999 - info - INFO - Loading file
+2024-09-21 12:55:05,065 - info - INFO - Return the dataframe
+2024-09-21 12:55:05,065 - info - INFO - Return the dataframe
+2024-09-21 12:55:05,086 - info - INFO - Remove null values
+2024-09-21 12:55:05,086 - info - INFO - Remove null values
+2024-09-21 12:55:05,133 - info - INFO - Loading file
+2024-09-21 12:55:05,133 - info - INFO - Loading file
+2024-09-21 12:55:05,133 - info - INFO - Loading file
+2024-09-21 12:55:05,999 - info - INFO - Return the dataframe
+2024-09-21 12:55:05,999 - info - INFO - Return the dataframe
+2024-09-21 12:55:05,999 - info - INFO - Return the dataframe
+2024-09-21 12:55:21,131 - info - INFO - Change datatype of columns
+2024-09-21 12:55:21,131 - info - INFO - Change datatype of columns
+2024-09-21 12:55:21,131 - info - INFO - Change datatype of columns
+2024-09-21 12:55:21,131 - info - INFO - Change datatype of columns
+2024-09-21 12:55:22,847 - info - INFO - Change datatype of columns
+2024-09-21 12:55:22,847 - info - INFO - Change datatype of columns
+2024-09-21 12:55:22,847 - info - INFO - Change datatype of columns
+2024-09-21 12:55:22,847 - info - INFO - Change datatype of columns
+2024-09-21 12:55:22,898 - info - INFO - Distribution of the categorical features
+2024-09-21 12:55:22,898 - info - INFO - Distribution of the categorical features
+2024-09-21 12:55:22,898 - info - INFO - Distribution of the categorical features
+2024-09-21 12:55:22,898 - info - INFO - Distribution of the categorical features
+2024-09-21 12:55:23,148 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 12:55:23,148 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 12:55:23,148 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 12:55:23,148 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 12:55:25,332 - info - INFO - Sales on specific holiday seasons
+2024-09-21 12:55:25,332 - info - INFO - Sales on specific holiday seasons
+2024-09-21 12:55:25,332 - info - INFO - Sales on specific holiday seasons
+2024-09-21 12:55:25,332 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:13:47,991 - info - INFO - Loading file
+2024-09-21 13:13:48,050 - info - INFO - Return the dataframe
+2024-09-21 13:13:48,138 - info - INFO - Replace NaN by zero
+2024-09-21 13:13:48,138 - info - INFO - Replace NaN by zero
+2024-09-21 13:13:48,138 - info - INFO - Replace NaN by zero
+2024-09-21 13:13:48,138 - info - INFO - Replace NaN by zero
+2024-09-21 13:13:48,146 - info - INFO - Replace NaN by zero
+2024-09-21 13:13:48,147 - info - INFO - Replace NaN by zero
+2024-09-21 13:13:48,189 - info - INFO - Loading file
+2024-09-21 13:13:48,189 - info - INFO - Loading file
+2024-09-21 13:13:48,319 - info - INFO - Return the dataframe
+2024-09-21 13:13:48,319 - info - INFO - Return the dataframe
+2024-09-21 13:13:48,380 - info - INFO - Remove null values
+2024-09-21 13:13:48,380 - info - INFO - Remove null values
+2024-09-21 13:13:48,447 - info - INFO - Loading file
+2024-09-21 13:13:48,447 - info - INFO - Loading file
+2024-09-21 13:13:48,447 - info - INFO - Loading file
+2024-09-21 13:13:49,714 - info - INFO - Return the dataframe
+2024-09-21 13:13:49,714 - info - INFO - Return the dataframe
+2024-09-21 13:13:49,714 - info - INFO - Return the dataframe
+2024-09-21 13:14:05,108 - info - INFO - Change datatype of columns
+2024-09-21 13:14:05,108 - info - INFO - Change datatype of columns
+2024-09-21 13:14:05,108 - info - INFO - Change datatype of columns
+2024-09-21 13:14:05,108 - info - INFO - Change datatype of columns
+2024-09-21 13:14:07,141 - info - INFO - Change datatype of columns
+2024-09-21 13:14:07,141 - info - INFO - Change datatype of columns
+2024-09-21 13:14:07,141 - info - INFO - Change datatype of columns
+2024-09-21 13:14:07,141 - info - INFO - Change datatype of columns
+2024-09-21 13:14:07,204 - info - INFO - Distribution of the categorical features
+2024-09-21 13:14:07,204 - info - INFO - Distribution of the categorical features
+2024-09-21 13:14:07,204 - info - INFO - Distribution of the categorical features
+2024-09-21 13:14:07,204 - info - INFO - Distribution of the categorical features
+2024-09-21 13:14:07,517 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:14:07,517 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:14:07,517 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:14:07,517 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:14:10,239 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:14:10,239 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:14:10,239 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:14:10,239 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:14:10,988 - info - INFO - Sales and Customers relation
+2024-09-21 13:14:10,988 - info - INFO - Sales and Customers relation
+2024-09-21 13:14:10,988 - info - INFO - Sales and Customers relation
+2024-09-21 13:14:10,988 - info - INFO - Sales and Customers relation
+2024-09-21 13:14:17,291 - info - INFO - Promo effect on sales
+2024-09-21 13:14:17,291 - info - INFO - Promo effect on sales
+2024-09-21 13:14:17,291 - info - INFO - Promo effect on sales
+2024-09-21 13:14:17,291 - info - INFO - Promo effect on sales
+2024-09-21 13:14:18,151 - info - INFO - Days of the week most promos happen
+2024-09-21 13:14:18,151 - info - INFO - Days of the week most promos happen
+2024-09-21 13:14:18,151 - info - INFO - Days of the week most promos happen
+2024-09-21 13:14:18,151 - info - INFO - Days of the week most promos happen
+2024-09-21 13:16:00,423 - info - INFO - Days of the week most promos happen
+2024-09-21 13:16:00,423 - info - INFO - Days of the week most promos happen
+2024-09-21 13:16:00,423 - info - INFO - Days of the week most promos happen
+2024-09-21 13:16:00,423 - info - INFO - Days of the week most promos happen
+2024-09-21 13:16:20,380 - info - INFO - Loading file
+2024-09-21 13:16:20,396 - info - INFO - Return the dataframe
+2024-09-21 13:16:20,476 - info - INFO - Replace NaN by zero
+2024-09-21 13:16:20,476 - info - INFO - Replace NaN by zero
+2024-09-21 13:16:20,476 - info - INFO - Replace NaN by zero
+2024-09-21 13:16:20,476 - info - INFO - Replace NaN by zero
+2024-09-21 13:16:20,476 - info - INFO - Replace NaN by zero
+2024-09-21 13:16:20,476 - info - INFO - Replace NaN by zero
+2024-09-21 13:16:20,529 - info - INFO - Loading file
+2024-09-21 13:16:20,529 - info - INFO - Loading file
+2024-09-21 13:16:20,624 - info - INFO - Return the dataframe
+2024-09-21 13:16:20,624 - info - INFO - Return the dataframe
+2024-09-21 13:16:20,696 - info - INFO - Remove null values
+2024-09-21 13:16:20,696 - info - INFO - Remove null values
+2024-09-21 13:16:20,758 - info - INFO - Loading file
+2024-09-21 13:16:20,758 - info - INFO - Loading file
+2024-09-21 13:16:20,758 - info - INFO - Loading file
+2024-09-21 13:16:22,645 - info - INFO - Return the dataframe
+2024-09-21 13:16:22,645 - info - INFO - Return the dataframe
+2024-09-21 13:16:22,645 - info - INFO - Return the dataframe
+2024-09-21 13:16:40,778 - info - INFO - Change datatype of columns
+2024-09-21 13:16:40,778 - info - INFO - Change datatype of columns
+2024-09-21 13:16:40,778 - info - INFO - Change datatype of columns
+2024-09-21 13:16:40,778 - info - INFO - Change datatype of columns
+2024-09-21 13:16:43,242 - info - INFO - Change datatype of columns
+2024-09-21 13:16:43,242 - info - INFO - Change datatype of columns
+2024-09-21 13:16:43,242 - info - INFO - Change datatype of columns
+2024-09-21 13:16:43,242 - info - INFO - Change datatype of columns
+2024-09-21 13:16:43,475 - info - INFO - Distribution of the categorical features
+2024-09-21 13:16:43,475 - info - INFO - Distribution of the categorical features
+2024-09-21 13:16:43,475 - info - INFO - Distribution of the categorical features
+2024-09-21 13:16:43,475 - info - INFO - Distribution of the categorical features
+2024-09-21 13:16:44,158 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:16:44,158 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:16:44,158 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:16:44,158 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:16:47,070 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:16:47,070 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:16:47,070 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:16:47,070 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:16:47,567 - info - INFO - Sales and Customers relation
+2024-09-21 13:16:47,567 - info - INFO - Sales and Customers relation
+2024-09-21 13:16:47,567 - info - INFO - Sales and Customers relation
+2024-09-21 13:16:47,567 - info - INFO - Sales and Customers relation
+2024-09-21 13:16:53,338 - info - INFO - Promo effect on sales
+2024-09-21 13:16:53,338 - info - INFO - Promo effect on sales
+2024-09-21 13:16:53,338 - info - INFO - Promo effect on sales
+2024-09-21 13:16:53,338 - info - INFO - Promo effect on sales
+2024-09-21 13:16:54,147 - info - INFO - Days of the week most promos happen
+2024-09-21 13:16:54,147 - info - INFO - Days of the week most promos happen
+2024-09-21 13:16:54,147 - info - INFO - Days of the week most promos happen
+2024-09-21 13:16:54,147 - info - INFO - Days of the week most promos happen
+2024-09-21 13:31:47,649 - info - INFO - Loading file
+2024-09-21 13:31:47,664 - info - INFO - Return the dataframe
+2024-09-21 13:31:47,718 - info - INFO - Replace NaN by zero
+2024-09-21 13:31:47,718 - info - INFO - Replace NaN by zero
+2024-09-21 13:31:47,718 - info - INFO - Replace NaN by zero
+2024-09-21 13:31:47,718 - info - INFO - Replace NaN by zero
+2024-09-21 13:31:47,731 - info - INFO - Replace NaN by zero
+2024-09-21 13:31:47,731 - info - INFO - Replace NaN by zero
+2024-09-21 13:31:47,768 - info - INFO - Loading file
+2024-09-21 13:31:47,768 - info - INFO - Loading file
+2024-09-21 13:31:47,814 - info - INFO - Return the dataframe
+2024-09-21 13:31:47,814 - info - INFO - Return the dataframe
+2024-09-21 13:31:47,848 - info - INFO - Remove null values
+2024-09-21 13:31:47,848 - info - INFO - Remove null values
+2024-09-21 13:31:47,913 - info - INFO - Loading file
+2024-09-21 13:31:47,913 - info - INFO - Loading file
+2024-09-21 13:31:47,913 - info - INFO - Loading file
+2024-09-21 13:31:48,931 - info - INFO - Return the dataframe
+2024-09-21 13:31:48,931 - info - INFO - Return the dataframe
+2024-09-21 13:31:48,931 - info - INFO - Return the dataframe
+2024-09-21 13:32:05,350 - info - INFO - Change datatype of columns
+2024-09-21 13:32:05,350 - info - INFO - Change datatype of columns
+2024-09-21 13:32:05,350 - info - INFO - Change datatype of columns
+2024-09-21 13:32:05,350 - info - INFO - Change datatype of columns
+2024-09-21 13:32:07,999 - info - INFO - Change datatype of columns
+2024-09-21 13:32:07,999 - info - INFO - Change datatype of columns
+2024-09-21 13:32:07,999 - info - INFO - Change datatype of columns
+2024-09-21 13:32:07,999 - info - INFO - Change datatype of columns
+2024-09-21 13:32:08,064 - info - INFO - Distribution of the categorical features
+2024-09-21 13:32:08,064 - info - INFO - Distribution of the categorical features
+2024-09-21 13:32:08,064 - info - INFO - Distribution of the categorical features
+2024-09-21 13:32:08,064 - info - INFO - Distribution of the categorical features
+2024-09-21 13:32:08,323 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:32:08,323 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:32:08,323 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:32:08,323 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:32:10,739 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:32:10,739 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:32:10,739 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:32:10,739 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:32:11,471 - info - INFO - Sales and Customers relation
+2024-09-21 13:32:11,471 - info - INFO - Sales and Customers relation
+2024-09-21 13:32:11,471 - info - INFO - Sales and Customers relation
+2024-09-21 13:32:11,471 - info - INFO - Sales and Customers relation
+2024-09-21 13:32:17,246 - info - INFO - Promo effect on sales
+2024-09-21 13:32:17,246 - info - INFO - Promo effect on sales
+2024-09-21 13:32:17,246 - info - INFO - Promo effect on sales
+2024-09-21 13:32:17,246 - info - INFO - Promo effect on sales
+2024-09-21 13:32:18,110 - info - INFO - Days of the week most promos happen
+2024-09-21 13:32:18,110 - info - INFO - Days of the week most promos happen
+2024-09-21 13:32:18,110 - info - INFO - Days of the week most promos happen
+2024-09-21 13:32:18,110 - info - INFO - Days of the week most promos happen
+2024-09-21 13:32:18,577 - info - INFO - Which store type should promo be deployed
+2024-09-21 13:32:18,577 - info - INFO - Which store type should promo be deployed
+2024-09-21 13:32:18,577 - info - INFO - Which store type should promo be deployed
+2024-09-21 13:32:18,577 - info - INFO - Which store type should promo be deployed
+2024-09-21 13:54:48,712 - info - INFO - Loading file
+2024-09-21 13:54:48,801 - info - INFO - Return the dataframe
+2024-09-21 13:54:48,884 - info - INFO - Replace NaN by zero
+2024-09-21 13:54:48,884 - info - INFO - Replace NaN by zero
+2024-09-21 13:54:48,884 - info - INFO - Replace NaN by zero
+2024-09-21 13:54:48,884 - info - INFO - Replace NaN by zero
+2024-09-21 13:54:48,884 - info - INFO - Replace NaN by zero
+2024-09-21 13:54:48,884 - info - INFO - Replace NaN by zero
+2024-09-21 13:54:48,967 - info - INFO - Loading file
+2024-09-21 13:54:48,967 - info - INFO - Loading file
+2024-09-21 13:54:49,034 - info - INFO - Return the dataframe
+2024-09-21 13:54:49,034 - info - INFO - Return the dataframe
+2024-09-21 13:54:49,069 - info - INFO - Remove null values
+2024-09-21 13:54:49,069 - info - INFO - Remove null values
+2024-09-21 13:54:49,118 - info - INFO - Loading file
+2024-09-21 13:54:49,118 - info - INFO - Loading file
+2024-09-21 13:54:49,118 - info - INFO - Loading file
+2024-09-21 13:54:50,567 - info - INFO - Return the dataframe
+2024-09-21 13:54:50,567 - info - INFO - Return the dataframe
+2024-09-21 13:54:50,567 - info - INFO - Return the dataframe
+2024-09-21 13:55:05,878 - info - INFO - Change datatype of columns
+2024-09-21 13:55:05,878 - info - INFO - Change datatype of columns
+2024-09-21 13:55:05,878 - info - INFO - Change datatype of columns
+2024-09-21 13:55:05,878 - info - INFO - Change datatype of columns
+2024-09-21 13:55:07,596 - info - INFO - Change datatype of columns
+2024-09-21 13:55:07,596 - info - INFO - Change datatype of columns
+2024-09-21 13:55:07,596 - info - INFO - Change datatype of columns
+2024-09-21 13:55:07,596 - info - INFO - Change datatype of columns
+2024-09-21 13:55:07,647 - info - INFO - Distribution of the categorical features
+2024-09-21 13:55:07,647 - info - INFO - Distribution of the categorical features
+2024-09-21 13:55:07,647 - info - INFO - Distribution of the categorical features
+2024-09-21 13:55:07,647 - info - INFO - Distribution of the categorical features
+2024-09-21 13:55:07,917 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:55:07,917 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:55:07,917 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:55:07,917 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:55:10,334 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:55:10,334 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:55:10,334 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:55:10,334 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:55:10,816 - info - INFO - Sales and Customers relation
+2024-09-21 13:55:10,816 - info - INFO - Sales and Customers relation
+2024-09-21 13:55:10,816 - info - INFO - Sales and Customers relation
+2024-09-21 13:55:10,816 - info - INFO - Sales and Customers relation
+2024-09-21 13:55:16,484 - info - INFO - Promo effect on sales
+2024-09-21 13:55:16,484 - info - INFO - Promo effect on sales
+2024-09-21 13:55:16,484 - info - INFO - Promo effect on sales
+2024-09-21 13:55:16,484 - info - INFO - Promo effect on sales
+2024-09-21 13:56:27,178 - info - INFO - Loading file
+2024-09-21 13:56:27,205 - info - INFO - Return the dataframe
+2024-09-21 13:56:27,263 - info - INFO - Replace NaN by zero
+2024-09-21 13:56:27,263 - info - INFO - Replace NaN by zero
+2024-09-21 13:56:27,263 - info - INFO - Replace NaN by zero
+2024-09-21 13:56:27,263 - info - INFO - Replace NaN by zero
+2024-09-21 13:56:27,263 - info - INFO - Replace NaN by zero
+2024-09-21 13:56:27,263 - info - INFO - Replace NaN by zero
+2024-09-21 13:56:27,298 - info - INFO - Loading file
+2024-09-21 13:56:27,298 - info - INFO - Loading file
+2024-09-21 13:56:27,362 - info - INFO - Return the dataframe
+2024-09-21 13:56:27,362 - info - INFO - Return the dataframe
+2024-09-21 13:56:27,397 - info - INFO - Remove null values
+2024-09-21 13:56:27,397 - info - INFO - Remove null values
+2024-09-21 13:56:27,430 - info - INFO - Loading file
+2024-09-21 13:56:27,430 - info - INFO - Loading file
+2024-09-21 13:56:27,430 - info - INFO - Loading file
+2024-09-21 13:56:28,328 - info - INFO - Return the dataframe
+2024-09-21 13:56:28,328 - info - INFO - Return the dataframe
+2024-09-21 13:56:28,328 - info - INFO - Return the dataframe
+2024-09-21 13:56:44,749 - info - INFO - Change datatype of columns
+2024-09-21 13:56:44,749 - info - INFO - Change datatype of columns
+2024-09-21 13:56:44,749 - info - INFO - Change datatype of columns
+2024-09-21 13:56:44,749 - info - INFO - Change datatype of columns
+2024-09-21 13:56:47,151 - info - INFO - Change datatype of columns
+2024-09-21 13:56:47,151 - info - INFO - Change datatype of columns
+2024-09-21 13:56:47,151 - info - INFO - Change datatype of columns
+2024-09-21 13:56:47,151 - info - INFO - Change datatype of columns
+2024-09-21 13:56:47,237 - info - INFO - Distribution of the categorical features
+2024-09-21 13:56:47,237 - info - INFO - Distribution of the categorical features
+2024-09-21 13:56:47,237 - info - INFO - Distribution of the categorical features
+2024-09-21 13:56:47,237 - info - INFO - Distribution of the categorical features
+2024-09-21 13:56:47,665 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:56:47,665 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:56:47,665 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:56:47,665 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 13:56:50,468 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:56:50,468 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:56:50,468 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:56:50,468 - info - INFO - Sales on specific holiday seasons
+2024-09-21 13:56:51,455 - info - INFO - Sales and Customers relation
+2024-09-21 13:56:51,455 - info - INFO - Sales and Customers relation
+2024-09-21 13:56:51,455 - info - INFO - Sales and Customers relation
+2024-09-21 13:56:51,455 - info - INFO - Sales and Customers relation
+2024-09-21 13:56:57,846 - info - INFO - Promo effect on sales
+2024-09-21 13:56:57,846 - info - INFO - Promo effect on sales
+2024-09-21 13:56:57,846 - info - INFO - Promo effect on sales
+2024-09-21 13:56:57,846 - info - INFO - Promo effect on sales
+2024-09-21 13:56:59,344 - info - INFO - Days of the week most promos happen
+2024-09-21 13:56:59,344 - info - INFO - Days of the week most promos happen
+2024-09-21 13:56:59,344 - info - INFO - Days of the week most promos happen
+2024-09-21 13:56:59,344 - info - INFO - Days of the week most promos happen
+2024-09-21 13:56:59,527 - info - INFO - Which store type should promo be deployed
+2024-09-21 13:56:59,527 - info - INFO - Which store type should promo be deployed
+2024-09-21 13:56:59,527 - info - INFO - Which store type should promo be deployed
+2024-09-21 13:56:59,527 - info - INFO - Which store type should promo be deployed
+2024-09-21 13:59:05,287 - info - INFO - Customers average purchases on opening time
+2024-09-21 13:59:05,287 - info - INFO - Customers average purchases on opening time
+2024-09-21 13:59:05,287 - info - INFO - Customers average purchases on opening time
+2024-09-21 13:59:05,287 - info - INFO - Customers average purchases on opening time
+2024-09-21 13:59:48,040 - info - INFO - Customers average purchases on opening time
+2024-09-21 13:59:48,040 - info - INFO - Customers average purchases on opening time
+2024-09-21 13:59:48,040 - info - INFO - Customers average purchases on opening time
+2024-09-21 13:59:48,040 - info - INFO - Customers average purchases on opening time
+2024-09-21 14:01:31,753 - info - INFO - Loading file
+2024-09-21 14:01:31,784 - info - INFO - Return the dataframe
+2024-09-21 14:01:31,834 - info - INFO - Replace NaN by zero
+2024-09-21 14:01:31,834 - info - INFO - Replace NaN by zero
+2024-09-21 14:01:31,834 - info - INFO - Replace NaN by zero
+2024-09-21 14:01:31,834 - info - INFO - Replace NaN by zero
+2024-09-21 14:01:31,834 - info - INFO - Replace NaN by zero
+2024-09-21 14:01:31,834 - info - INFO - Replace NaN by zero
+2024-09-21 14:01:31,917 - info - INFO - Loading file
+2024-09-21 14:01:31,917 - info - INFO - Loading file
+2024-09-21 14:01:31,998 - info - INFO - Return the dataframe
+2024-09-21 14:01:31,998 - info - INFO - Return the dataframe
+2024-09-21 14:01:32,072 - info - INFO - Remove null values
+2024-09-21 14:01:32,072 - info - INFO - Remove null values
+2024-09-21 14:01:32,140 - info - INFO - Loading file
+2024-09-21 14:01:32,140 - info - INFO - Loading file
+2024-09-21 14:01:32,140 - info - INFO - Loading file
+2024-09-21 14:01:33,082 - info - INFO - Return the dataframe
+2024-09-21 14:01:33,082 - info - INFO - Return the dataframe
+2024-09-21 14:01:33,082 - info - INFO - Return the dataframe
+2024-09-21 14:01:49,532 - info - INFO - Change datatype of columns
+2024-09-21 14:01:49,532 - info - INFO - Change datatype of columns
+2024-09-21 14:01:49,532 - info - INFO - Change datatype of columns
+2024-09-21 14:01:49,532 - info - INFO - Change datatype of columns
+2024-09-21 14:01:51,364 - info - INFO - Change datatype of columns
+2024-09-21 14:01:51,364 - info - INFO - Change datatype of columns
+2024-09-21 14:01:51,364 - info - INFO - Change datatype of columns
+2024-09-21 14:01:51,364 - info - INFO - Change datatype of columns
+2024-09-21 14:01:51,431 - info - INFO - Distribution of the categorical features
+2024-09-21 14:01:51,431 - info - INFO - Distribution of the categorical features
+2024-09-21 14:01:51,431 - info - INFO - Distribution of the categorical features
+2024-09-21 14:01:51,431 - info - INFO - Distribution of the categorical features
+2024-09-21 14:01:51,698 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 14:01:51,698 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 14:01:51,698 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 14:01:51,698 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 14:01:54,298 - info - INFO - Sales on specific holiday seasons
+2024-09-21 14:01:54,298 - info - INFO - Sales on specific holiday seasons
+2024-09-21 14:01:54,298 - info - INFO - Sales on specific holiday seasons
+2024-09-21 14:01:54,298 - info - INFO - Sales on specific holiday seasons
+2024-09-21 14:01:54,814 - info - INFO - Sales and Customers relation
+2024-09-21 14:01:54,814 - info - INFO - Sales and Customers relation
+2024-09-21 14:01:54,814 - info - INFO - Sales and Customers relation
+2024-09-21 14:01:54,814 - info - INFO - Sales and Customers relation
+2024-09-21 14:02:00,766 - info - INFO - Promo effect on sales
+2024-09-21 14:02:00,766 - info - INFO - Promo effect on sales
+2024-09-21 14:02:00,766 - info - INFO - Promo effect on sales
+2024-09-21 14:02:00,766 - info - INFO - Promo effect on sales
+2024-09-21 14:02:02,209 - info - INFO - Days of the week most promos happen
+2024-09-21 14:02:02,209 - info - INFO - Days of the week most promos happen
+2024-09-21 14:02:02,209 - info - INFO - Days of the week most promos happen
+2024-09-21 14:02:02,209 - info - INFO - Days of the week most promos happen
+2024-09-21 14:02:02,396 - info - INFO - Which store type should promo be deployed
+2024-09-21 14:02:02,396 - info - INFO - Which store type should promo be deployed
+2024-09-21 14:02:02,396 - info - INFO - Which store type should promo be deployed
+2024-09-21 14:02:02,396 - info - INFO - Which store type should promo be deployed
+2024-09-21 14:02:02,611 - info - INFO - Customers average purchases on opening time
+2024-09-21 14:02:02,611 - info - INFO - Customers average purchases on opening time
+2024-09-21 14:02:02,611 - info - INFO - Customers average purchases on opening time
+2024-09-21 14:02:02,611 - info - INFO - Customers average purchases on opening time
+2024-09-21 14:03:42,093 - info - INFO - Loading file
+2024-09-21 14:03:42,126 - info - INFO - Return the dataframe
+2024-09-21 14:03:42,199 - info - INFO - Replace NaN by zero
+2024-09-21 14:03:42,199 - info - INFO - Replace NaN by zero
+2024-09-21 14:03:42,199 - info - INFO - Replace NaN by zero
+2024-09-21 14:03:42,199 - info - INFO - Replace NaN by zero
+2024-09-21 14:03:42,199 - info - INFO - Replace NaN by zero
+2024-09-21 14:03:42,199 - info - INFO - Replace NaN by zero
+2024-09-21 14:03:42,244 - info - INFO - Loading file
+2024-09-21 14:03:42,244 - info - INFO - Loading file
+2024-09-21 14:03:42,310 - info - INFO - Return the dataframe
+2024-09-21 14:03:42,310 - info - INFO - Return the dataframe
+2024-09-21 14:03:42,344 - info - INFO - Remove null values
+2024-09-21 14:03:42,344 - info - INFO - Remove null values
+2024-09-21 14:03:42,391 - info - INFO - Loading file
+2024-09-21 14:03:42,391 - info - INFO - Loading file
+2024-09-21 14:03:42,391 - info - INFO - Loading file
+2024-09-21 14:03:43,292 - info - INFO - Return the dataframe
+2024-09-21 14:03:43,292 - info - INFO - Return the dataframe
+2024-09-21 14:03:43,292 - info - INFO - Return the dataframe
+2024-09-21 14:03:58,742 - info - INFO - Change datatype of columns
+2024-09-21 14:03:58,742 - info - INFO - Change datatype of columns
+2024-09-21 14:03:58,742 - info - INFO - Change datatype of columns
+2024-09-21 14:03:58,742 - info - INFO - Change datatype of columns
+2024-09-21 14:04:00,666 - info - INFO - Change datatype of columns
+2024-09-21 14:04:00,666 - info - INFO - Change datatype of columns
+2024-09-21 14:04:00,666 - info - INFO - Change datatype of columns
+2024-09-21 14:04:00,666 - info - INFO - Change datatype of columns
+2024-09-21 14:04:00,734 - info - INFO - Distribution of the categorical features
+2024-09-21 14:04:00,734 - info - INFO - Distribution of the categorical features
+2024-09-21 14:04:00,734 - info - INFO - Distribution of the categorical features
+2024-09-21 14:04:00,734 - info - INFO - Distribution of the categorical features
+2024-09-21 14:04:01,043 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 14:04:01,043 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 14:04:01,043 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 14:04:01,043 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 14:04:03,458 - info - INFO - Sales on specific holiday seasons
+2024-09-21 14:04:03,458 - info - INFO - Sales on specific holiday seasons
+2024-09-21 14:04:03,458 - info - INFO - Sales on specific holiday seasons
+2024-09-21 14:04:03,458 - info - INFO - Sales on specific holiday seasons
+2024-09-21 14:04:03,957 - info - INFO - Sales and Customers relation
+2024-09-21 14:04:03,957 - info - INFO - Sales and Customers relation
+2024-09-21 14:04:03,957 - info - INFO - Sales and Customers relation
+2024-09-21 14:04:03,957 - info - INFO - Sales and Customers relation
+2024-09-21 14:04:09,595 - info - INFO - Promo effect on sales
+2024-09-21 14:04:09,595 - info - INFO - Promo effect on sales
+2024-09-21 14:04:09,595 - info - INFO - Promo effect on sales
+2024-09-21 14:04:09,595 - info - INFO - Promo effect on sales
+2024-09-21 14:04:10,857 - info - INFO - Days of the week most promos happen
+2024-09-21 14:04:10,857 - info - INFO - Days of the week most promos happen
+2024-09-21 14:04:10,857 - info - INFO - Days of the week most promos happen
+2024-09-21 14:04:10,857 - info - INFO - Days of the week most promos happen
+2024-09-21 14:04:11,043 - info - INFO - Which store type should promo be deployed
+2024-09-21 14:04:11,043 - info - INFO - Which store type should promo be deployed
+2024-09-21 14:04:11,043 - info - INFO - Which store type should promo be deployed
+2024-09-21 14:04:11,043 - info - INFO - Which store type should promo be deployed
+2024-09-21 14:04:11,243 - info - INFO - Customers average purchases on opening time
+2024-09-21 14:04:11,243 - info - INFO - Customers average purchases on opening time
+2024-09-21 14:04:11,243 - info - INFO - Customers average purchases on opening time
+2024-09-21 14:04:11,243 - info - INFO - Customers average purchases on opening time
+2024-09-21 15:00:51,349 - info - INFO - Loading file
+2024-09-21 15:00:51,363 - info - INFO - Return the dataframe
+2024-09-21 15:00:51,435 - info - INFO - Replace NaN by zero
+2024-09-21 15:00:51,435 - info - INFO - Replace NaN by zero
+2024-09-21 15:00:51,435 - info - INFO - Replace NaN by zero
+2024-09-21 15:00:51,435 - info - INFO - Replace NaN by zero
+2024-09-21 15:00:51,435 - info - INFO - Replace NaN by zero
+2024-09-21 15:00:51,435 - info - INFO - Replace NaN by zero
+2024-09-21 15:00:51,469 - info - INFO - Loading file
+2024-09-21 15:00:51,469 - info - INFO - Loading file
+2024-09-21 15:00:51,550 - info - INFO - Return the dataframe
+2024-09-21 15:00:51,550 - info - INFO - Return the dataframe
+2024-09-21 15:00:51,566 - info - INFO - Remove null values
+2024-09-21 15:00:51,566 - info - INFO - Remove null values
+2024-09-21 15:00:51,619 - info - INFO - Loading file
+2024-09-21 15:00:51,619 - info - INFO - Loading file
+2024-09-21 15:00:51,619 - info - INFO - Loading file
+2024-09-21 15:00:52,819 - info - INFO - Return the dataframe
+2024-09-21 15:00:52,819 - info - INFO - Return the dataframe
+2024-09-21 15:00:52,819 - info - INFO - Return the dataframe
+2024-09-21 15:01:13,544 - info - INFO - Change datatype of columns
+2024-09-21 15:01:13,544 - info - INFO - Change datatype of columns
+2024-09-21 15:01:13,544 - info - INFO - Change datatype of columns
+2024-09-21 15:01:13,544 - info - INFO - Change datatype of columns
+2024-09-21 15:01:16,699 - info - INFO - Change datatype of columns
+2024-09-21 15:01:16,699 - info - INFO - Change datatype of columns
+2024-09-21 15:01:16,699 - info - INFO - Change datatype of columns
+2024-09-21 15:01:16,699 - info - INFO - Change datatype of columns
+2024-09-21 15:01:16,832 - info - INFO - Distribution of the categorical features
+2024-09-21 15:01:16,832 - info - INFO - Distribution of the categorical features
+2024-09-21 15:01:16,832 - info - INFO - Distribution of the categorical features
+2024-09-21 15:01:16,832 - info - INFO - Distribution of the categorical features
+2024-09-21 15:01:17,218 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 15:01:17,218 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 15:01:17,218 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 15:01:17,218 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 15:01:19,932 - info - INFO - Sales on specific holiday seasons
+2024-09-21 15:01:19,932 - info - INFO - Sales on specific holiday seasons
+2024-09-21 15:01:19,932 - info - INFO - Sales on specific holiday seasons
+2024-09-21 15:01:19,932 - info - INFO - Sales on specific holiday seasons
+2024-09-21 15:01:20,600 - info - INFO - Sales and Customers relation
+2024-09-21 15:01:20,600 - info - INFO - Sales and Customers relation
+2024-09-21 15:01:20,600 - info - INFO - Sales and Customers relation
+2024-09-21 15:01:20,600 - info - INFO - Sales and Customers relation
+2024-09-21 15:01:28,216 - info - INFO - Promo effect on sales
+2024-09-21 15:01:28,216 - info - INFO - Promo effect on sales
+2024-09-21 15:01:28,216 - info - INFO - Promo effect on sales
+2024-09-21 15:01:28,216 - info - INFO - Promo effect on sales
+2024-09-21 15:01:29,817 - info - INFO - Days of the week most promos happen
+2024-09-21 15:01:29,817 - info - INFO - Days of the week most promos happen
+2024-09-21 15:01:29,817 - info - INFO - Days of the week most promos happen
+2024-09-21 15:01:29,817 - info - INFO - Days of the week most promos happen
+2024-09-21 15:01:30,011 - info - INFO - Which store type should promo be deployed
+2024-09-21 15:01:30,011 - info - INFO - Which store type should promo be deployed
+2024-09-21 15:01:30,011 - info - INFO - Which store type should promo be deployed
+2024-09-21 15:01:30,011 - info - INFO - Which store type should promo be deployed
+2024-09-21 15:01:30,236 - info - INFO - Customers average purchases on opening time
+2024-09-21 15:01:30,236 - info - INFO - Customers average purchases on opening time
+2024-09-21 15:01:30,236 - info - INFO - Customers average purchases on opening time
+2024-09-21 15:01:30,236 - info - INFO - Customers average purchases on opening time
+2024-09-21 15:38:20,481 - info - INFO - Loading file
+2024-09-21 15:38:20,481 - info - INFO - Return the dataframe
+2024-09-21 15:38:20,546 - info - INFO - Replace NaN by zero
+2024-09-21 15:38:20,547 - info - INFO - Replace NaN by zero
+2024-09-21 15:38:20,548 - info - INFO - Replace NaN by zero
+2024-09-21 15:38:20,548 - info - INFO - Replace NaN by zero
+2024-09-21 15:38:20,548 - info - INFO - Replace NaN by zero
+2024-09-21 15:38:20,548 - info - INFO - Replace NaN by zero
+2024-09-21 15:38:20,604 - info - INFO - Loading file
+2024-09-21 15:38:20,604 - info - INFO - Loading file
+2024-09-21 15:38:20,666 - info - INFO - Return the dataframe
+2024-09-21 15:38:20,666 - info - INFO - Return the dataframe
+2024-09-21 15:38:20,698 - info - INFO - Remove null values
+2024-09-21 15:38:20,698 - info - INFO - Remove null values
+2024-09-21 15:38:20,752 - info - INFO - Loading file
+2024-09-21 15:38:20,752 - info - INFO - Loading file
+2024-09-21 15:38:20,752 - info - INFO - Loading file
+2024-09-21 15:38:22,031 - info - INFO - Return the dataframe
+2024-09-21 15:38:22,031 - info - INFO - Return the dataframe
+2024-09-21 15:38:22,031 - info - INFO - Return the dataframe
+2024-09-21 15:38:40,513 - info - INFO - Change datatype of columns
+2024-09-21 15:38:40,513 - info - INFO - Change datatype of columns
+2024-09-21 15:38:40,513 - info - INFO - Change datatype of columns
+2024-09-21 15:38:40,513 - info - INFO - Change datatype of columns
+2024-09-21 15:38:42,331 - info - INFO - Change datatype of columns
+2024-09-21 15:38:42,331 - info - INFO - Change datatype of columns
+2024-09-21 15:38:42,331 - info - INFO - Change datatype of columns
+2024-09-21 15:38:42,331 - info - INFO - Change datatype of columns
+2024-09-21 15:38:42,408 - info - INFO - Distribution of the categorical features
+2024-09-21 15:38:42,408 - info - INFO - Distribution of the categorical features
+2024-09-21 15:38:42,408 - info - INFO - Distribution of the categorical features
+2024-09-21 15:38:42,408 - info - INFO - Distribution of the categorical features
+2024-09-21 15:38:42,684 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 15:38:42,684 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 15:38:42,684 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 15:38:42,684 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 15:38:45,165 - info - INFO - Sales on specific holiday seasons
+2024-09-21 15:38:45,165 - info - INFO - Sales on specific holiday seasons
+2024-09-21 15:38:45,165 - info - INFO - Sales on specific holiday seasons
+2024-09-21 15:38:45,165 - info - INFO - Sales on specific holiday seasons
+2024-09-21 15:38:45,947 - info - INFO - Sales and Customers relation
+2024-09-21 15:38:45,947 - info - INFO - Sales and Customers relation
+2024-09-21 15:38:45,947 - info - INFO - Sales and Customers relation
+2024-09-21 15:38:45,947 - info - INFO - Sales and Customers relation
+2024-09-21 15:38:52,913 - info - INFO - Promo effect on sales
+2024-09-21 15:38:52,913 - info - INFO - Promo effect on sales
+2024-09-21 15:38:52,913 - info - INFO - Promo effect on sales
+2024-09-21 15:38:52,913 - info - INFO - Promo effect on sales
+2024-09-21 15:38:54,463 - info - INFO - Days of the week most promos happen
+2024-09-21 15:38:54,463 - info - INFO - Days of the week most promos happen
+2024-09-21 15:38:54,463 - info - INFO - Days of the week most promos happen
+2024-09-21 15:38:54,463 - info - INFO - Days of the week most promos happen
+2024-09-21 15:38:54,682 - info - INFO - Which store type should promo be deployed
+2024-09-21 15:38:54,682 - info - INFO - Which store type should promo be deployed
+2024-09-21 15:38:54,682 - info - INFO - Which store type should promo be deployed
+2024-09-21 15:38:54,682 - info - INFO - Which store type should promo be deployed
+2024-09-21 15:38:54,916 - info - INFO - Customers average purchases on opening time
+2024-09-21 15:38:54,916 - info - INFO - Customers average purchases on opening time
+2024-09-21 15:38:54,916 - info - INFO - Customers average purchases on opening time
+2024-09-21 15:38:54,916 - info - INFO - Customers average purchases on opening time
+2024-09-21 16:08:54,297 - info - INFO - Loading file
+2024-09-21 16:08:54,314 - info - INFO - Return the dataframe
+2024-09-21 16:08:54,381 - info - INFO - Replace NaN by zero
+2024-09-21 16:08:54,383 - info - INFO - Replace NaN by zero
+2024-09-21 16:08:54,384 - info - INFO - Replace NaN by zero
+2024-09-21 16:08:54,385 - info - INFO - Replace NaN by zero
+2024-09-21 16:08:54,386 - info - INFO - Replace NaN by zero
+2024-09-21 16:08:54,387 - info - INFO - Replace NaN by zero
+2024-09-21 16:08:54,439 - info - INFO - Loading file
+2024-09-21 16:08:54,439 - info - INFO - Loading file
+2024-09-21 16:08:54,530 - info - INFO - Return the dataframe
+2024-09-21 16:08:54,530 - info - INFO - Return the dataframe
+2024-09-21 16:08:54,566 - info - INFO - Remove null values
+2024-09-21 16:08:54,566 - info - INFO - Remove null values
+2024-09-21 16:08:54,616 - info - INFO - Loading file
+2024-09-21 16:08:54,616 - info - INFO - Loading file
+2024-09-21 16:08:54,616 - info - INFO - Loading file
+2024-09-21 16:08:55,697 - info - INFO - Return the dataframe
+2024-09-21 16:08:55,697 - info - INFO - Return the dataframe
+2024-09-21 16:08:55,697 - info - INFO - Return the dataframe
+2024-09-21 16:09:11,662 - info - INFO - Change datatype of columns
+2024-09-21 16:09:11,662 - info - INFO - Change datatype of columns
+2024-09-21 16:09:11,662 - info - INFO - Change datatype of columns
+2024-09-21 16:09:11,662 - info - INFO - Change datatype of columns
+2024-09-21 16:09:13,773 - info - INFO - Change datatype of columns
+2024-09-21 16:09:13,773 - info - INFO - Change datatype of columns
+2024-09-21 16:09:13,773 - info - INFO - Change datatype of columns
+2024-09-21 16:09:13,773 - info - INFO - Change datatype of columns
+2024-09-21 16:09:13,864 - info - INFO - Distribution of the categorical features
+2024-09-21 16:09:13,864 - info - INFO - Distribution of the categorical features
+2024-09-21 16:09:13,864 - info - INFO - Distribution of the categorical features
+2024-09-21 16:09:13,864 - info - INFO - Distribution of the categorical features
+2024-09-21 16:09:14,291 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 16:09:14,291 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 16:09:14,291 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 16:09:14,291 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 16:09:16,831 - info - INFO - Sales on specific holiday seasons
+2024-09-21 16:09:16,831 - info - INFO - Sales on specific holiday seasons
+2024-09-21 16:09:16,831 - info - INFO - Sales on specific holiday seasons
+2024-09-21 16:09:16,831 - info - INFO - Sales on specific holiday seasons
+2024-09-21 16:09:17,572 - info - INFO - Sales and Customers relation
+2024-09-21 16:09:17,572 - info - INFO - Sales and Customers relation
+2024-09-21 16:09:17,572 - info - INFO - Sales and Customers relation
+2024-09-21 16:09:17,572 - info - INFO - Sales and Customers relation
+2024-09-21 16:09:23,376 - info - INFO - Promo effect on sales
+2024-09-21 16:09:23,376 - info - INFO - Promo effect on sales
+2024-09-21 16:09:23,376 - info - INFO - Promo effect on sales
+2024-09-21 16:09:23,376 - info - INFO - Promo effect on sales
+2024-09-21 16:09:24,991 - info - INFO - Days of the week most promos happen
+2024-09-21 16:09:24,991 - info - INFO - Days of the week most promos happen
+2024-09-21 16:09:24,991 - info - INFO - Days of the week most promos happen
+2024-09-21 16:09:24,991 - info - INFO - Days of the week most promos happen
+2024-09-21 16:09:25,197 - info - INFO - Which store type should promo be deployed
+2024-09-21 16:09:25,197 - info - INFO - Which store type should promo be deployed
+2024-09-21 16:09:25,197 - info - INFO - Which store type should promo be deployed
+2024-09-21 16:09:25,197 - info - INFO - Which store type should promo be deployed
+2024-09-21 16:09:25,399 - info - INFO - Customers average purchases on opening time
+2024-09-21 16:09:25,399 - info - INFO - Customers average purchases on opening time
+2024-09-21 16:09:25,399 - info - INFO - Customers average purchases on opening time
+2024-09-21 16:09:25,399 - info - INFO - Customers average purchases on opening time
+2024-09-21 16:09:26,128 - info - INFO - Day of the week vs Sales
+2024-09-21 16:09:26,128 - info - INFO - Day of the week vs Sales
+2024-09-21 16:09:26,128 - info - INFO - Day of the week vs Sales
+2024-09-21 16:09:26,128 - info - INFO - Day of the week vs Sales
+2024-09-21 16:09:28,277 - info - INFO - Assortments vs Sales
+2024-09-21 16:09:28,277 - info - INFO - Assortments vs Sales
+2024-09-21 16:09:28,277 - info - INFO - Assortments vs Sales
+2024-09-21 16:09:28,277 - info - INFO - Assortments vs Sales
+2024-09-21 16:09:28,667 - info - INFO - Competitor distance vs Sales
+2024-09-21 16:09:28,667 - info - INFO - Competitor distance vs Sales
+2024-09-21 16:09:28,667 - info - INFO - Competitor distance vs Sales
+2024-09-21 16:09:28,667 - info - INFO - Competitor distance vs Sales
+2024-09-21 16:16:52,193 - info - INFO - Loading file
+2024-09-21 16:16:52,209 - info - INFO - Return the dataframe
+2024-09-21 16:16:52,258 - info - INFO - Replace NaN by zero
+2024-09-21 16:16:52,259 - info - INFO - Replace NaN by zero
+2024-09-21 16:16:52,260 - info - INFO - Replace NaN by zero
+2024-09-21 16:16:52,261 - info - INFO - Replace NaN by zero
+2024-09-21 16:16:52,262 - info - INFO - Replace NaN by zero
+2024-09-21 16:16:52,263 - info - INFO - Replace NaN by zero
+2024-09-21 16:16:52,325 - info - INFO - Loading file
+2024-09-21 16:16:52,325 - info - INFO - Loading file
+2024-09-21 16:16:52,413 - info - INFO - Return the dataframe
+2024-09-21 16:16:52,413 - info - INFO - Return the dataframe
+2024-09-21 16:16:52,503 - info - INFO - Remove null values
+2024-09-21 16:16:52,503 - info - INFO - Remove null values
+2024-09-21 16:16:52,580 - info - INFO - Loading file
+2024-09-21 16:16:52,580 - info - INFO - Loading file
+2024-09-21 16:16:52,580 - info - INFO - Loading file
+2024-09-21 16:16:54,057 - info - INFO - Return the dataframe
+2024-09-21 16:16:54,057 - info - INFO - Return the dataframe
+2024-09-21 16:16:54,057 - info - INFO - Return the dataframe
+2024-09-21 16:17:11,067 - info - INFO - Change datatype of columns
+2024-09-21 16:17:11,067 - info - INFO - Change datatype of columns
+2024-09-21 16:17:11,067 - info - INFO - Change datatype of columns
+2024-09-21 16:17:11,067 - info - INFO - Change datatype of columns
+2024-09-21 16:17:13,004 - info - INFO - Change datatype of columns
+2024-09-21 16:17:13,004 - info - INFO - Change datatype of columns
+2024-09-21 16:17:13,004 - info - INFO - Change datatype of columns
+2024-09-21 16:17:13,004 - info - INFO - Change datatype of columns
+2024-09-21 16:17:13,072 - info - INFO - Distribution of the categorical features
+2024-09-21 16:17:13,072 - info - INFO - Distribution of the categorical features
+2024-09-21 16:17:13,072 - info - INFO - Distribution of the categorical features
+2024-09-21 16:17:13,072 - info - INFO - Distribution of the categorical features
+2024-09-21 16:17:13,441 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 16:17:13,441 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 16:17:13,441 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 16:17:13,441 - info - INFO - Sales behavior during, before and after holidays
+2024-09-21 16:17:16,233 - info - INFO - Sales on specific holiday seasons
+2024-09-21 16:17:16,233 - info - INFO - Sales on specific holiday seasons
+2024-09-21 16:17:16,233 - info - INFO - Sales on specific holiday seasons
+2024-09-21 16:17:16,233 - info - INFO - Sales on specific holiday seasons
+2024-09-21 16:17:16,842 - info - INFO - Sales and Customers relation
+2024-09-21 16:17:16,842 - info - INFO - Sales and Customers relation
+2024-09-21 16:17:16,842 - info - INFO - Sales and Customers relation
+2024-09-21 16:17:16,842 - info - INFO - Sales and Customers relation
+2024-09-21 16:17:23,059 - info - INFO - Promo effect on sales
+2024-09-21 16:17:23,059 - info - INFO - Promo effect on sales
+2024-09-21 16:17:23,059 - info - INFO - Promo effect on sales
+2024-09-21 16:17:23,059 - info - INFO - Promo effect on sales
+2024-09-21 16:17:24,531 - info - INFO - Days of the week most promos happen
+2024-09-21 16:17:24,531 - info - INFO - Days of the week most promos happen
+2024-09-21 16:17:24,531 - info - INFO - Days of the week most promos happen
+2024-09-21 16:17:24,531 - info - INFO - Days of the week most promos happen
+2024-09-21 16:17:24,751 - info - INFO - Which store type should promo be deployed
+2024-09-21 16:17:24,751 - info - INFO - Which store type should promo be deployed
+2024-09-21 16:17:24,751 - info - INFO - Which store type should promo be deployed
+2024-09-21 16:17:24,751 - info - INFO - Which store type should promo be deployed
+2024-09-21 16:17:25,131 - info - INFO - Customers average purchases on opening time
+2024-09-21 16:17:25,131 - info - INFO - Customers average purchases on opening time
+2024-09-21 16:17:25,131 - info - INFO - Customers average purchases on opening time
+2024-09-21 16:17:25,131 - info - INFO - Customers average purchases on opening time
+2024-09-21 16:17:25,876 - info - INFO - Day of the week vs Sales
+2024-09-21 16:17:25,876 - info - INFO - Day of the week vs Sales
+2024-09-21 16:17:25,876 - info - INFO - Day of the week vs Sales
+2024-09-21 16:17:25,876 - info - INFO - Day of the week vs Sales
+2024-09-21 16:17:27,245 - info - INFO - Assortments vs Sales
+2024-09-21 16:17:27,245 - info - INFO - Assortments vs Sales
+2024-09-21 16:17:27,245 - info - INFO - Assortments vs Sales
+2024-09-21 16:17:27,245 - info - INFO - Assortments vs Sales
+2024-09-21 16:17:27,651 - info - INFO - Competitor distance vs Sales
+2024-09-21 16:17:27,651 - info - INFO - Competitor distance vs Sales
+2024-09-21 16:17:27,651 - info - INFO - Competitor distance vs Sales
+2024-09-21 16:17:27,651 - info - INFO - Competitor distance vs Sales
