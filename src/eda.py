@@ -36,7 +36,57 @@ class EDA:
         except:
             self.error_log.error("Error occurred when loading the files")
 
+    # return the dataframe
     def get_dataframe(self):
+        self.info_log.info('Return the dataframe')
         return self.df
+
+    # fill null values by zero
+    def fill_null(self,col):
+        self.info_log.info('Replace NaN by zero')
+        self.df[col].fillna(0, inplace=True)
+
+    # remove null values
+    def remove_null(self):
+        self.info_log.info('Remove null values')
+        self.df.dropna(inplace=True)
+
+    # change to appropriate data type
+    def change_dataType(self):
+        self.info_log.info('Change datatype of columns')
+        columns = self.df.columns.tolist()
+
+        for col in columns:
+            if col in ('CompetitionOpenSinceMonth','CompetitionOpenSinceYear','Promo2SinceWeek','Promo2SinceYear'):
+                self.df[col] = self.df[col].astype('int64')
+
+            elif col in ('Promo','Promo2','Open','StateHoliday','SchoolHoliday'):
+                self.df[col] = self.df[col].astype('category')
+
+            elif col == 'Date':
+                self.df[col] = pd.to_datetime(self.df[col])
+
+            elif col == 'Store':
+                self.df[col] = self.df[col].astype('str')
+
+
+    # box plot to check distribut
+    def overview(self):
+        self.info_log.info('Information about the dataset')
+        print("Shape of the dataframe:")
+        print(f"{self.df.shape}\n")
+
+        print("Information on the data:")
+        print(f"{self.df.info()}\n")
+
+        print("Describe the numerical column statistics:")
+        print(f"{self.df.describe()}\n")
+
+        print("The first five rows of the data:")
+        print(f"{self.df.head(3)}\n")
+
+            
+            
+
 
 

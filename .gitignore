@@ -1,2 +1,4 @@
 # for ignoring files
 *.csv
+notebooks/train_store.csv
+notebooks/test_store.csv
