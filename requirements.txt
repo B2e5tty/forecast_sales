@@ -1,1 +1,6 @@
 Pandas
+imbalanced-learn
+tensorflow
+statsmodels
+Flask
+joblib
